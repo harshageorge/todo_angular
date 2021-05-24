@@ -1,0 +1,33 @@
+.order{
+    width:10%;
+}
+input{
+    border-radius: 1px;
+    border:1px solid black;
+    width:50%;
+    height:40px;
+    box-sizing: border-box;
+
+}
+.container{
+    margin-top: 60px;
+}
+.table{
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.col{
+    margin-bottom: 15px;
+}
+
+.item{
+    width:500px
+}
+
+
+
+
+
+
+ 
